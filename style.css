@@ -34,7 +34,7 @@ p.basketball {
 .basketball_img {
 	position: absolute;
 	right: 30px;
-	bottom: 0;
+	top: 10px;
 	z-index: -10;
 	width: 500px
 }
